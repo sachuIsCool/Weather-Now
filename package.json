@@ -9,9 +9,9 @@
     "preview": "vite preview --port 4173"
   },
   "dependencies": {
+    "lucide-react": "^0.453.0",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1",
-    "lucide-react": "^0.453.0"
+    "react-dom": "^19.1.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
@@ -20,6 +20,6 @@
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.9",
-    "vite": "^5.3.4"
+    "vite": "^5.4.19"
   }
 }
