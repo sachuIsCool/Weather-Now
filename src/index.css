@@ -8,7 +8,7 @@ body { font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, H
 
 /* Animated gradient utility for background glow */
 .animated-gradient {
-	background: linear-gradient(120deg, #93c5fd, #c4b5fd, #fca5a5);
+	background: linear-gradient(12deg, #ffb4f4, #5b0065, #5b004b);
 	background-size: 200% 200%;
 	animation: gradientShift 14s ease-in-out infinite;
 }
